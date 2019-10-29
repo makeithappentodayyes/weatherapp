@@ -1,0 +1,28 @@
+head{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: center;
+	color:rgb(48, 108, 165);
+}
+h1{
+	color: mediumaquamarine;
+	text-align: center;
+	border-style: solid;
+	padding-bottom: 67px;
+	padding-top: 67px;
+	
+
+}
+
+header{
+		border-style: solid;
+}
+body{
+	text-align: center;
+	background-color: lightblue;
+	padding-bottom:120px;
+	
+}
+
+.main{
+	border-style: solid;
+}
