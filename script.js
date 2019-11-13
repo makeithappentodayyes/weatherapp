@@ -63,6 +63,7 @@ $.ajax({
       wf += "</p>" // Closing paragraph tag
     });
     // $("#showWeatherForcast").html(wf);
+    // update..
     $("#content").html(wf);
 
   }
